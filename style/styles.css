@@ -120,7 +120,7 @@ h6 { font-size: 1rem; }
     border-radius: var(--border-radius-lg);
     box-shadow: var(--box-shadow-xl);
     width: 100%;
-    height: fit-content;
+    height: 80%;
     max-width: 420px;
     position: relative;
     z-index: 1;
