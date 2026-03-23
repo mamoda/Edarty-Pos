@@ -116,7 +116,7 @@ h6 { font-size: 1rem; }
 
 .login-form {
     background-color: white;
-    padding: 40px;
+    padding: 20px;
     border-radius: var(--border-radius-lg);
     box-shadow: var(--box-shadow-xl);
     width: 100%;
