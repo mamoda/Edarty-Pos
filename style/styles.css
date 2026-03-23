@@ -116,7 +116,7 @@ h6 { font-size: 1rem; }
 
 .login-form {
     background-color: white;
-    padding: 20px;
+    padding: 40px;
     border-radius: var(--border-radius-lg);
     box-shadow: var(--box-shadow-xl);
     width: 100%;
@@ -155,7 +155,7 @@ h6 { font-size: 1rem; }
 }
 .login-form img{
     width: 90px;
-    height: 50px;
+    height: 30px;
     margin-bottom: 20px;
 }
 
